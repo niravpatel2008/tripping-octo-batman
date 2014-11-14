@@ -1,0 +1,14 @@
+<wpml-config>
+	<admin-texts>
+        <key name="services_meta_box" />
+        <key name="services_icon" />        
+    </admin-texts> 
+	<custom-types>
+	 <custom-type translate="1">product</custom-type>
+	 <custom-type translate="1">FAQ</custom-type>
+	 <custom-type translate="1">services</custom-type>
+	</custom-types>
+	<taxonomies>
+	 <taxonomy translate="1">Uncategorized</taxonomy>
+	</taxonomies>
+</wpml-config>

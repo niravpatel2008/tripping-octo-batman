@@ -1,0 +1,7 @@
+How to import and use revolution-slider:
+http://www.ait-themes.com/doc/how-to-import-and-use-revolution-slider/?theme=rounder-wordpress-theme
+
+I have attached image in slide-images folder.
+
+Get more slider from here:
+http://www.themepunch.com/codecanyon/revolution_wp/index-exports.html

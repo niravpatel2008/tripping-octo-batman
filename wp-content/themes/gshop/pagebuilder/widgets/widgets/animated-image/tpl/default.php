@@ -1,0 +1,1 @@
+<img src="<?php echo esc_url($instance['image']) ?>" class="default-image-visibility" data-animation="<?php echo esc_attr($instance['animation']) ?>" />
